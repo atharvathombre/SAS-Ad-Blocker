@@ -9,6 +9,7 @@ const defaultFilters = [
 	"*://*.quantserve.com/*",
 	"*://*.scorecardresearch.com/*",
 	"*://*.zedo.com/*",
+	"*://*.dutorterraom.com/*",
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
